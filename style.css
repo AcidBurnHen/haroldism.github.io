@@ -1,0 +1,85 @@
+body {
+	background-size: cover;
+}
+
+nav {
+	background-color: #FF9200;
+}
+
+
+h1  {
+	color: #DB4C00;
+	text-align: center;
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 3px solid orange;
+	cursor: pointer;
+}
+
+p {
+	color: black;
+	line-height: 30px;
+	font-size: 120%;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img {
+	width: 450px;
+	height: 300px;
+	margin: 8px;
+}
+
+
+footer {
+	clear: both;
+	text-align: center;
+}
+
+.webtext {
+	border: 2px solid teal;
+}
+
+.active {
+	color: red;
+}
+
+#div1 {
+	font-style: bold;
+	font-size: 140%;
+}
+
+.navbar {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.form-inline {
+	background-color: orange;
+}
+
+.container {
+	margin-top: 60px;
+}
+
+.footer {
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #272522;
+	color: white;
+	text-align: center;
+	padding: 20px 0px;
+}

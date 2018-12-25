@@ -1,0 +1,15 @@
+h2 {
+	color: blue;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.boxmodel {
+	border: 2px solid black;
+	padding: 20px 5px;
+	text-align: center;
+	font-size: 20px;
+}
